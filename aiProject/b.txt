@@ -1,0 +1,4000 @@
+B, D, D, D
+suck
+B, D, C, D
+0
+B, D, D, D
+suck
+B, D, C, D
+0
+B, D, D, D
+suck
+B, D, C, D
+0
+B, D, D, D
+suck
+B, D, C, D
+0
+B, D, D, D
+suck
+B, D, C, D
+0
+B, D, D, D
+suck
+B, D, C, D
+0
+B, D, D, D
+suck
+B, D, C, D
+0
+B, D, D, D
+suck
+B, D, C, D
+0
+B, D, D, D
+suck
+B, D, C, D
+0
+B, D, C, D
+left
+A, D, C, D
+-0.5
+A, D, C, D
+suck
+A, C, C, D
+-0.5
+A, C, C, D
+no-op
+A, C, C, D
+-0.5
+A, D, D, D
+suck
+A, C, D, D
+-0.5
+A, C, D, D
+left
+A, C, D, D
+-0.5
+A, C, D, D
+left
+A, C, D, D
+-0.5
+A, C, D, D
+right
+B, C, D, D
+-1.0
+B, C, D, D
+suck
+B, C, C, D
+-1.0
+B, C, D, D
+suck
+B, C, C, D
+-1.0
+B, C, D, D
+suck
+B, C, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, C, D
+no-op
+B, D, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, D, D
+suck
+B, D, C, D
+-1.0
+B, D, C, D
+right
+C, D, C, D
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, C
+no-op
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, D
+suck
+C, D, D, C
+-1.5
+C, D, D, C
+left
+B, D, D, C
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, C, D
+no-op
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, D, D
+suck
+B, D, C, D
+-2.0
+B, D, C, D
+left
+A, D, C, D
+-2.5
+A, D, C, D
+suck
+A, C, C, D
+-2.5
+A, C, C, D
+no-op
+A, C, C, D
+-2.5
+A, D, D, D
+suck
+A, C, D, D
+-2.5
+A, D, D, D
+suck
+A, C, D, D
+-2.5
+A, C, D, D
+left
+A, C, D, D
+-2.5
+A, C, D, D
+left
+A, C, D, D
+-2.5
+A, D, D, D
+suck
+A, C, D, D
+-2.5
+A, D, D, D
+suck
+A, C, D, D
+-2.5
+A, C, D, D
+no-op
+A, C, D, D
+-2.5
+A, C, D, D
+no-op
+A, C, D, D
+-2.5
+A, C, D, D
+left
+A, C, D, D
+-2.5
+A, C, D, D
+left
+A, C, D, D
+-2.5
+A, C, D, D
+right
+B, C, D, D
+-3.0
+B, C, D, D
+suck
+B, C, C, D
+-3.0
+B, D, D, D
+suck
+B, D, C, D
+-3.0
+B, D, D, D
+suck
+B, D, C, D
+-3.0
+B, D, D, D
+suck
+B, D, C, D
+-3.0
+B, D, D, D
+suck
+B, D, C, D
+-3.0
+B, D, D, D
+suck
+B, D, C, D
+-3.0
+B, D, C, D
+no-op
+B, D, C, D
+-3.0
+B, D, D, D
+suck
+B, D, C, D
+-3.0
+B, D, D, D
+suck
+B, D, C, D
+-3.0
+B, D, D, D
+suck
+B, D, C, D
+-3.0
+B, D, C, D
+right
+C, D, C, D
+-3.5
+B, D, D, D
+suck
+B, D, C, D
+-3.5
+B, D, D, D
+suck
+B, D, C, D
+-3.5
+B, D, C, D
+left
+A, D, C, D
+-4.0
+B, D, C, D
+right
+C, D, C, D
+-4.5
+B, D, D, D
+suck
+B, D, C, D
+-4.5
+B, D, D, D
+suck
+B, D, C, D
+-4.5
+B, D, D, D
+suck
+B, D, C, D
+-4.5
+B, D, D, D
+suck
+B, D, C, D
+-4.5
+B, D, D, D
+suck
+B, D, C, D
+-4.5
+B, D, D, D
+suck
+B, D, C, D
+-4.5
+B, D, C, D
+right
+C, D, C, D
+-5.0
+B, D, D, D
+suck
+B, D, C, D
+-5.0
+B, D, D, D
+suck
+B, D, C, D
+-5.0
+B, D, D, D
+suck
+B, D, C, D
+-5.0
+B, D, C, D
+right
+C, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, D, D
+suck
+B, D, C, D
+-5.5
+B, D, C, D
+right
+C, D, C, D
+-6.0
+B, D, D, D
+suck
+B, D, C, D
+-6.0
+B, D, D, D
+suck
+B, D, C, D
+-6.0
+B, D, D, D
+suck
+B, D, C, D
+-6.0
+B, D, D, D
+suck
+B, D, C, D
+-6.0
+B, D, D, D
+suck
+B, D, C, D
+-6.0
+B, D, D, D
+suck
+B, D, C, D
+-6.0
+B, D, C, D
+no-op
+B, D, C, D
+-6.0
+B, D, C, D
+no-op
+B, D, C, D
+-6.0
+B, D, C, D
+right
+C, D, C, D
+-6.5
+B, D, D, D
+suck
+B, D, C, D
+-6.5
+B, D, D, D
+suck
+B, D, C, D
+-6.5
+B, D, C, D
+no-op
+B, D, C, D
+-6.5
+B, D, D, D
+suck
+B, D, C, D
+-6.5
+B, D, C, D
+right
+C, D, C, D
+-7.0
+B, D, C, D
+right
+C, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, D, D
+suck
+B, D, C, D
+-7.5
+B, D, C, D
+right
+C, D, C, D
+-8.0
+B, D, D, D
+suck
+B, D, C, D
+-8.0
+B, D, C, D
+right
+C, D, C, D
+-8.5
+B, D, C, D
+no-op
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, D, D
+suck
+B, D, C, D
+-8.5
+B, D, C, D
+left
+A, D, C, D
+-9.0
+B, D, C, D
+no-op
+B, D, C, D
+-9.0
+B, D, D, D
+suck
+B, D, C, D
+-9.0
+B, D, D, D
+suck
+B, D, C, D
+-9.0
+B, D, C, D
+right
+C, D, C, D
+-9.5
+B, D, D, D
+suck
+B, D, C, D
+-9.5
+B, D, C, D
+right
+C, D, C, D
+-10.0
+B, D, D, D
+suck
+B, D, C, D
+-10.0
+B, D, D, D
+suck
+B, D, C, D
+-10.0
+B, D, D, D
+suck
+B, D, C, D
+-10.0
+B, D, D, D
+suck
+B, D, C, D
+-10.0
+B, D, C, D
+left
+A, D, C, D
+-10.5
+B, D, D, D
+suck
+B, D, C, D
+-10.5
+B, D, D, D
+suck
+B, D, C, D
+-10.5
+B, D, D, D
+suck
+B, D, C, D
+-10.5
+B, D, C, D
+left
+A, D, C, D
+-11.0
+B, D, D, D
+suck
+B, D, C, D
+-11.0
+B, D, D, D
+suck
+B, D, C, D
+-11.0
+B, D, D, D
+suck
+B, D, C, D
+-11.0
+B, D, D, D
+suck
+B, D, C, D
+-11.0
+B, D, D, D
+suck
+B, D, C, D
+-11.0
+B, D, D, D
+suck
+B, D, C, D
+-11.0
+B, D, D, D
+suck
+B, D, C, D
+-11.0
+B, D, D, D
+suck
+B, D, C, D
+-11.0
+B, D, D, D
+suck
+B, D, C, D
+-11.0
+B, D, C, D
+left
+A, D, C, D
+-11.5
+B, D, D, D
+suck
+B, D, C, D
+-11.5
+B, D, C, D
+left
+A, D, C, D
+-12.0
+B, D, C, D
+left
+A, D, C, D
+-12.5
+B, D, D, D
+suck
+B, D, C, D
+-12.5
+B, D, D, D
+suck
+B, D, C, D
+-12.5
+B, D, C, D
+left
+A, D, C, D
+-13.0
+B, D, D, D
+suck
+B, D, C, D
+-13.0
+B, D, D, D
+suck
+B, D, C, D
+-13.0
+B, D, D, D
+suck
+B, D, C, D
+-13.0
+B, D, C, D
+right
+C, D, C, D
+-13.5
+B, D, C, D
+right
+C, D, C, D
+-14.0
+B, D, D, D
+suck
+B, D, C, D
+-14.0
+B, D, D, D
+suck
+B, D, C, D
+-14.0
+B, D, D, D
+suck
+B, D, C, D
+-14.0
+B, D, D, D
+suck
+B, D, C, D
+-14.0
+B, D, C, D
+no-op
+B, D, C, D
+-14.0
+B, D, C, D
+no-op
+B, D, C, D
+-14.0
+B, D, D, D
+suck
+B, D, C, D
+-14.0
+B, D, D, D
+suck
+B, D, C, D
+-14.0
+B, D, C, D
+right
+C, D, C, D
+-14.5
+B, D, D, D
+suck
+B, D, C, D
+-14.5
+B, D, D, D
+suck
+B, D, C, D
+-14.5
+B, D, D, D
+suck
+B, D, C, D
+-14.5
+B, D, C, D
+no-op
+B, D, C, D
+-14.5
+B, D, D, D
+suck
+B, D, C, D
+-14.5
+B, D, D, D
+suck
+B, D, C, D
+-14.5
+B, D, D, D
+suck
+B, D, C, D
+-14.5
+B, D, C, D
+right
+C, D, C, D
+-15.0
+B, D, D, D
+suck
+B, D, C, D
+-15.0
+B, D, C, D
+left
+A, D, C, D
+-15.5
+B, D, D, D
+suck
+B, D, C, D
+-15.5
+B, D, D, D
+suck
+B, D, C, D
+-15.5
+B, D, D, D
+suck
+B, D, C, D
+-15.5
+B, D, D, D
+suck
+B, D, C, D
+-15.5
+B, D, C, D
+right
+C, D, C, D
+-16.0
+B, D, C, D
+left
+A, D, C, D
+-16.5
+B, D, C, D
+left
+A, D, C, D
+-17.0
+B, D, D, D
+suck
+B, D, C, D
+-17.0
+B, D, D, D
+suck
+B, D, C, D
+-17.0
+B, D, D, D
+suck
+B, D, C, D
+-17.0
+B, D, D, D
+suck
+B, D, C, D
+-17.0
+B, D, C, D
+right
+C, D, C, D
+-17.5
+B, D, C, D
+right
+C, D, C, D
+-18.0
+B, D, C, D
+right
+C, D, C, D
+-18.5
+B, D, D, D
+suck
+B, D, C, D
+-18.5
+B, D, D, D
+suck
+B, D, C, D
+-18.5
+B, D, D, D
+suck
+B, D, C, D
+-18.5
+B, D, C, D
+no-op
+B, D, C, D
+-18.5
+B, D, D, D
+suck
+B, D, C, D
+-18.5
+B, D, D, D
+suck
+B, D, C, D
+-18.5
+B, D, D, D
+suck
+B, D, C, D
+-18.5
+B, D, C, D
+no-op
+B, D, C, D
+-18.5
+B, D, C, D
+right
+C, D, C, D
+-19.0
+B, D, D, D
+suck
+B, D, C, D
+-19.0
+B, D, C, D
+right
+C, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, D, D
+suck
+B, D, C, D
+-19.5
+B, D, C, D
+right
+C, D, C, D
+-20.0
+B, D, C, D
+left
+A, D, C, D
+-20.5
+B, D, D, D
+suck
+B, D, C, D
+-20.5
+B, D, D, D
+suck
+B, D, C, D
+-20.5
+B, D, C, D
+left
+A, D, C, D
+-21.0
+B, D, D, D
+suck
+B, D, C, D
+-21.0
+B, D, C, D
+right
+C, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, C, D
+no-op
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, D, D
+suck
+B, D, C, D
+-21.5
+B, D, C, D
+left
+A, D, C, D
+-22.0
+B, D, D, D
+suck
+B, D, C, D
+-22.0
+B, D, C, D
+right
+C, D, C, D
+-22.5
+B, D, D, D
+suck
+B, D, C, D
+-22.5
+B, D, D, D
+suck
+B, D, C, D
+-22.5
+B, D, D, D
+suck
+B, D, C, D
+-22.5
+B, D, D, D
+suck
+B, D, C, D
+-22.5
+B, D, C, D
+no-op
+B, D, C, D
+-22.5
+B, D, D, D
+suck
+B, D, C, D
+-22.5
+B, D, D, D
+suck
+B, D, C, D
+-22.5
+B, D, D, D
+suck
+B, D, C, D
+-22.5
+B, D, D, D
+suck
+B, D, C, D
+-22.5
+B, D, C, D
+right
+C, D, C, D
+-23.0
+B, D, D, D
+suck
+B, D, C, D
+-23.0
+B, D, D, D
+suck
+B, D, C, D
+-23.0
+B, D, D, D
+suck
+B, D, C, D
+-23.0
+B, D, D, D
+suck
+B, D, C, D
+-23.0
+B, D, C, D
+no-op
+B, D, C, D
+-23.0
+B, D, D, D
+suck
+B, D, C, D
+-23.0
+B, D, D, D
+suck
+B, D, C, D
+-23.0
+B, D, D, D
+suck
+B, D, C, D
+-23.0
+B, D, D, D
+suck
+B, D, C, D
+-23.0
+B, D, D, D
+suck
+B, D, C, D
+-23.0
+B, D, D, D
+suck
+B, D, C, D
+-23.0
+B, D, C, D
+right
+C, D, C, D
+-23.5
+B, D, D, D
+suck
+B, D, C, D
+-23.5
+B, D, D, D
+suck
+B, D, C, D
+-23.5
+B, D, D, D
+suck
+B, D, C, D
+-23.5
+B, D, D, D
+suck
+B, D, C, D
+-23.5
+B, D, C, D
+no-op
+B, D, C, D
+-23.5
+B, D, C, D
+right
+C, D, C, D
+-24.0
+B, D, D, D
+suck
+B, D, C, D
+-24.0
+B, D, D, D
+suck
+B, D, C, D
+-24.0
+B, D, D, D
+suck
+B, D, C, D
+-24.0
+B, D, D, D
+suck
+B, D, C, D
+-24.0
+B, D, D, D
+suck
+B, D, C, D
+-24.0
+B, D, C, D
+left
+A, D, C, D
+-24.5
+B, D, D, D
+suck
+B, D, C, D
+-24.5
+B, D, D, D
+suck
+B, D, C, D
+-24.5
+B, D, D, D
+suck
+B, D, C, D
+-24.5
+B, D, D, D
+suck
+B, D, C, D
+-24.5
+B, D, D, D
+suck
+B, D, C, D
+-24.5
+B, D, D, D
+suck
+B, D, C, D
+-24.5
+B, D, D, D
+suck
+B, D, C, D
+-24.5
+B, D, D, D
+suck
+B, D, C, D
+-24.5
+B, D, D, D
+suck
+B, D, C, D
+-24.5
+B, D, C, D
+left
+A, D, C, D
+-25.0
+B, D, D, D
+suck
+B, D, C, D
+-25.0
+B, D, D, D
+suck
+B, D, C, D
+-25.0
+B, D, D, D
+suck
+B, D, C, D
+-25.0
+B, D, D, D
+suck
+B, D, C, D
+-25.0
+B, D, D, D
+suck
+B, D, C, D
+-25.0
+B, D, C, D
+right
+C, D, C, D
+-25.5
+B, D, C, D
+right
+C, D, C, D
+-26.0
+B, D, D, D
+suck
+B, D, C, D
+-26.0
+B, D, D, D
+suck
+B, D, C, D
+-26.0
+B, D, D, D
+suck
+B, D, C, D
+-26.0
+B, D, D, D
+suck
+B, D, C, D
+-26.0
+B, D, C, D
+left
+A, D, C, D
+-26.5
+B, D, D, D
+suck
+B, D, C, D
+-26.5
+B, D, D, D
+suck
+B, D, C, D
+-26.5
+B, D, D, D
+suck
+B, D, C, D
+-26.5
+B, D, D, D
+suck
+B, D, C, D
+-26.5
+B, D, C, D
+right
+C, D, C, D
+-27.0
+B, D, D, D
+suck
+B, D, C, D
+-27.0
+B, D, D, D
+suck
+B, D, C, D
+-27.0
+B, D, D, D
+suck
+B, D, C, D
+-27.0
+B, D, D, D
+suck
+B, D, C, D
+-27.0
+B, D, C, D
+left
+A, D, C, D
+-27.5
+B, D, D, D
+suck
+B, D, C, D
+-27.5
+B, D, D, D
+suck
+B, D, C, D
+-27.5
+B, D, D, D
+suck
+B, D, C, D
+-27.5
+B, D, C, D
+left
+A, D, C, D
+-28.0
+B, D, C, D
+left
+A, D, C, D
+-28.5
+B, D, D, D
+suck
+B, D, C, D
+-28.5
+B, D, D, D
+suck
+B, D, C, D
+-28.5
+B, D, D, D
+suck
+B, D, C, D
+-28.5
+B, D, D, D
+suck
+B, D, C, D
+-28.5
+B, D, D, D
+suck
+B, D, C, D
+-28.5
+B, D, D, D
+suck
+B, D, C, D
+-28.5
+B, D, D, D
+suck
+B, D, C, D
+-28.5
+B, D, D, D
+suck
+B, D, C, D
+-28.5
+B, D, D, D
+suck
+B, D, C, D
+-28.5
+B, D, C, D
+no-op
+B, D, C, D
+-28.5
+B, D, D, D
+suck
+B, D, C, D
+-28.5
+B, D, C, D
+right
+C, D, C, D
+-29.0
+B, D, C, D
+no-op
+B, D, C, D
+-29.0
+B, D, D, D
+suck
+B, D, C, D
+-29.0
+B, D, D, D
+suck
+B, D, C, D
+-29.0
+B, D, D, D
+suck
+B, D, C, D
+-29.0
+B, D, D, D
+suck
+B, D, C, D
+-29.0
+B, D, C, D
+left
+A, D, C, D
+-29.5
+B, D, D, D
+suck
+B, D, C, D
+-29.5
+B, D, D, D
+suck
+B, D, C, D
+-29.5
+B, D, C, D
+left
+A, D, C, D
+-30.0
+B, D, C, D
+left
+A, D, C, D
+-30.5
+B, D, C, D
+right
+C, D, C, D
+-31.0
+B, D, D, D
+suck
+B, D, C, D
+-31.0
+B, D, D, D
+suck
+B, D, C, D
+-31.0
+B, D, D, D
+suck
+B, D, C, D
+-31.0
+B, D, D, D
+suck
+B, D, C, D
+-31.0
+B, D, C, D
+left
+A, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, C, D
+no-op
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, C, D
+no-op
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, D, D
+suck
+B, D, C, D
+-31.5
+B, D, C, D
+right
+C, D, C, D
+-32.0
+B, D, D, D
+suck
+B, D, C, D
+-32.0
+B, D, C, D
+no-op
+B, D, C, D
+-32.0
+B, D, C, D
+no-op
+B, D, C, D
+-32.0
+B, D, D, D
+suck
+B, D, C, D
+-32.0
+B, D, D, D
+suck
+B, D, C, D
+-32.0
+B, D, D, D
+suck
+B, D, C, D
+-32.0
+B, D, D, D
+suck
+B, D, C, D
+-32.0
+B, D, D, D
+suck
+B, D, C, D
+-32.0
+B, D, C, D
+no-op
+B, D, C, D
+-32.0
+B, D, D, D
+suck
+B, D, C, D
+-32.0
+B, D, D, D
+suck
+B, D, C, D
+-32.0
+B, D, C, D
+right
+C, D, C, D
+-32.5
+B, D, D, D
+suck
+B, D, C, D
+-32.5
+B, D, C, D
+left
+A, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, D, D
+suck
+B, D, C, D
+-33.0
+B, D, C, D
+left
+A, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, C, D
+no-op
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, C, D
+no-op
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, C, D
+no-op
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, C, D
+no-op
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, C, D
+no-op
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, C, D
+no-op
+B, D, C, D
+-33.5
+B, D, C, D
+no-op
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, D, D
+suck
+B, D, C, D
+-33.5
+B, D, C, D
+right
+C, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, C, D
+no-op
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, D, D
+suck
+B, D, C, D
+-34.0
+B, D, C, D
+right
+C, D, C, D
+-34.5
+B, D, D, D
+suck
+B, D, C, D
+-34.5
+B, D, D, D
+suck
+B, D, C, D
+-34.5
+B, D, C, D
+no-op
+B, D, C, D
+-34.5
+B, D, D, D
+suck
+B, D, C, D
+-34.5
+B, D, D, D
+suck
+B, D, C, D
+-34.5
+B, D, D, D
+suck
+B, D, C, D
+-34.5
+B, D, D, D
+suck
+B, D, C, D
+-34.5
+B, D, D, D
+suck
+B, D, C, D
+-34.5
+B, D, D, D
+suck
+B, D, C, D
+-34.5
+B, D, C, D
+right
+C, D, C, D
+-35.0
+B, D, D, D
+suck
+B, D, C, D
+-35.0
+B, D, D, D
+suck
+B, D, C, D
+-35.0
+B, D, D, D
+suck
+B, D, C, D
+-35.0
+B, D, D, D
+suck
+B, D, C, D
+-35.0
+B, D, D, D
+suck
+B, D, C, D
+-35.0
+B, D, C, D
+left
+A, D, C, D
+-35.5
+B, D, D, D
+suck
+B, D, C, D
+-35.5
+B, D, D, D
+suck
+B, D, C, D
+-35.5
+B, D, D, D
+suck
+B, D, C, D
+-35.5
+B, D, D, D
+suck
+B, D, C, D
+-35.5
+B, D, C, D
+right
+C, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, D, D
+suck
+B, D, C, D
+-36.0
+B, D, C, D
+right
+C, D, C, D
+-36.5
+B, D, C, D
+no-op
+B, D, C, D
+-36.5
+B, D, D, D
+suck
+B, D, C, D
+-36.5
+B, D, D, D
+suck
+B, D, C, D
+-36.5
+B, D, D, D
+suck
+B, D, C, D
+-36.5
+B, D, C, D
+right
+C, D, C, D
+-37.0
+B, D, D, D
+suck
+B, D, C, D
+-37.0
+B, D, D, D
+suck
+B, D, C, D
+-37.0
+B, D, D, D
+suck
+B, D, C, D
+-37.0
+B, D, D, D
+suck
+B, D, C, D
+-37.0
+B, D, C, D
+right
+C, D, C, D
+-37.5
+B, D, C, D
+no-op
+B, D, C, D
+-37.5
+B, D, D, D
+suck
+B, D, C, D
+-37.5
+B, D, C, D
+no-op
+B, D, C, D
+-37.5
+B, D, C, D
+no-op
+B, D, C, D
+-37.5
+B, D, D, D
+suck
+B, D, C, D
+-37.5
+B, D, C, D
+right
+C, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, D, D
+suck
+B, D, C, D
+-38.0
+B, D, C, D
+left
+A, D, C, D
+-38.5
+B, D, C, D
+no-op
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, C, D
+no-op
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, C, D
+no-op
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, C, D
+no-op
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, D, D
+suck
+B, D, C, D
+-38.5
+B, D, C, D
+right
+C, D, C, D
+-39.0
+B, D, D, D
+suck
+B, D, C, D
+-39.0
+B, D, C, D
+no-op
+B, D, C, D
+-39.0
+B, D, D, D
+suck
+B, D, C, D
+-39.0
+B, D, C, D
+no-op
+B, D, C, D
+-39.0
+B, D, D, D
+suck
+B, D, C, D
+-39.0
+B, D, D, D
+suck
+B, D, C, D
+-39.0
+B, D, D, D
+suck
+B, D, C, D
+-39.0
+B, D, D, D
+suck
+B, D, C, D
+-39.0
+B, D, D, D
+suck
+B, D, C, D
+-39.0
+B, D, C, D
+left
+A, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, C, D
+no-op
+B, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, D, D
+suck
+B, D, C, D
+-39.5
+B, D, C, D
+right
+C, D, C, D
+-40.0
+B, D, C, D
+left
+A, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, C, D
+no-op
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, C, D
+no-op
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, D, D
+suck
+B, D, C, D
+-40.5
+B, D, C, D
+right
+C, D, C, D
+-41.0
+B, D, C, D
+right
+C, D, C, D
+-41.5
+B, D, D, D
+suck
+B, D, C, D
+-41.5
+B, D, D, D
+suck
+B, D, C, D
+-41.5
+B, D, C, D
+no-op
+B, D, C, D
+-41.5
+B, D, D, D
+suck
+B, D, C, D
+-41.5
+B, D, C, D
+left
+A, D, C, D
+-42.0
+B, D, D, D
+suck
+B, D, C, D
+-42.0
+B, D, D, D
+suck
+B, D, C, D
+-42.0
+B, D, C, D
+left
+A, D, C, D
+-42.5
+B, D, D, D
+suck
+B, D, C, D
+-42.5
+B, D, D, D
+suck
+B, D, C, D
+-42.5
+B, D, C, D
+left
+A, D, C, D
+-43.0
+B, D, D, D
+suck
+B, D, C, D
+-43.0
+B, D, D, D
+suck
+B, D, C, D
+-43.0
+B, D, D, D
+suck
+B, D, C, D
+-43.0
+B, D, D, D
+suck
+B, D, C, D
+-43.0
+B, D, D, D
+suck
+B, D, C, D
+-43.0
+B, D, D, D
+suck
+B, D, C, D
+-43.0
+B, D, D, D
+suck
+B, D, C, D
+-43.0
+B, D, D, D
+suck
+B, D, C, D
+-43.0
+B, D, C, D
+right
+C, D, C, D
+-43.5
+B, D, D, D
+suck
+B, D, C, D
+-43.5
+B, D, D, D
+suck
+B, D, C, D
+-43.5
+B, D, C, D
+left
+A, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, C, D
+no-op
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, D, D
+suck
+B, D, C, D
+-44.0
+B, D, C, D
+left
+A, D, C, D
+-44.5
+B, D, D, D
+suck
+B, D, C, D
+-44.5
+B, D, D, D
+suck
+B, D, C, D
+-44.5
+B, D, C, D
+right
+C, D, C, D
+-45.0
+B, D, D, D
+suck
+B, D, C, D
+-45.0
+B, D, C, D
+right
+C, D, C, D
+-45.5
+B, D, D, D
+suck
+B, D, C, D
+-45.5
+B, D, C, D
+no-op
+B, D, C, D
+-45.5
+B, D, D, D
+suck
+B, D, C, D
+-45.5
+B, D, D, D
+suck
+B, D, C, D
+-45.5
+B, D, D, D
+suck
+B, D, C, D
+-45.5
+B, D, D, D
+suck
+B, D, C, D
+-45.5
+B, D, D, D
+suck
+B, D, C, D
+-45.5
+B, D, D, D
+suck
+B, D, C, D
+-45.5
+B, D, D, D
+suck
+B, D, C, D
+-45.5
+B, D, D, D
+suck
+B, D, C, D
+-45.5
+B, D, C, D
+left
+A, D, C, D
+-46.0
+B, D, D, D
+suck
+B, D, C, D
+-46.0
+B, D, C, D
+left
+A, D, C, D
+-46.5
+B, D, D, D
+suck
+B, D, C, D
+-46.5
+B, D, D, D
+suck
+B, D, C, D
+-46.5
+B, D, D, D
+suck
+B, D, C, D
+-46.5
+B, D, D, D
+suck
+B, D, C, D
+-46.5
+B, D, C, D
+left
+A, D, C, D
+-47.0
+B, D, D, D
+suck
+B, D, C, D
+-47.0
+B, D, C, D
+no-op
+B, D, C, D
+-47.0
+B, D, C, D
+right
+C, D, C, D
+-47.5
+B, D, C, D
+right
+C, D, C, D
+-48.0
+B, D, D, D
+suck
+B, D, C, D
+-48.0
+B, D, D, D
+suck
+B, D, C, D
+-48.0
+B, D, C, D
+right
+C, D, C, D
+-48.5
+B, D, D, D
+suck
+B, D, C, D
+-48.5
+B, D, D, D
+suck
+B, D, C, D
+-48.5
+B, D, D, D
+suck
+B, D, C, D
+-48.5
+B, D, C, D
+right
+C, D, C, D
+-49.0
+B, D, D, D
+suck
+B, D, C, D
+-49.0
+B, D, C, D
+no-op
+B, D, C, D
+-49.0
+B, D, D, D
+suck
+B, D, C, D
+-49.0
+B, D, D, D
+suck
+B, D, C, D
+-49.0
+B, D, D, D
+suck
+B, D, C, D
+-49.0
+B, D, D, D
+suck
+B, D, C, D
+-49.0
+B, D, D, D
+suck
+B, D, C, D
+-49.0
+B, D, D, D
+suck
+B, D, C, D
+-49.0
+B, D, D, D
+suck
+B, D, C, D
+-49.0
+B, D, D, D
+suck
+B, D, C, D
+-49.0
+B, D, C, D
+left
+A, D, C, D
+-49.5
+B, D, D, D
+suck
+B, D, C, D
+-49.5
+B, D, D, D
+suck
+B, D, C, D
+-49.5
+B, D, D, D
+suck
+B, D, C, D
+-49.5
+B, D, C, D
+left
+A, D, C, D
+-50.0
+B, D, D, D
+suck
+B, D, C, D
+-50.0
+B, D, C, D
+left
+A, D, C, D
+-50.5
+B, D, D, D
+suck
+B, D, C, D
+-50.5
+B, D, C, D
+no-op
+B, D, C, D
+-50.5
+B, D, D, D
+suck
+B, D, C, D
+-50.5
+B, D, D, D
+suck
+B, D, C, D
+-50.5
+B, D, C, D
+left
+A, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, D, D
+suck
+B, D, C, D
+-51.0
+B, D, C, D
+right
+C, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, C, D
+no-op
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, C, D
+no-op
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, D, D
+suck
+B, D, C, D
+-51.5
+B, D, C, D
+left
+A, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, D, D
+suck
+B, D, C, D
+-52.0
+B, D, C, D
+right
+C, D, C, D
+-52.5
+B, D, D, D
+suck
+B, D, C, D
+-52.5
+B, D, D, D
+suck
+B, D, C, D
+-52.5
+B, D, D, D
+suck
+B, D, C, D
+-52.5
+B, D, D, D
+suck
+B, D, C, D
+-52.5
+B, D, D, D
+suck
+B, D, C, D
+-52.5
+B, D, D, D
+suck
+B, D, C, D
+-52.5
+B, D, D, D
+suck
+B, D, C, D
+-52.5
+B, D, D, D
+suck
+B, D, C, D
+-52.5
+B, D, C, D
+right
+C, D, C, D
+-53.0
+B, D, D, D
+suck
+B, D, C, D
+-53.0
+B, D, D, D
+suck
+B, D, C, D
+-53.0
+B, D, D, D
+suck
+B, D, C, D
+-53.0
+B, D, D, D
+suck
+B, D, C, D
+-53.0
+B, D, D, D
+suck
+B, D, C, D
+-53.0
+B, D, C, D
+right
+C, D, C, D
+-53.5
+B, D, D, D
+suck
+B, D, C, D
+-53.5
+B, D, D, D
+suck
+B, D, C, D
+-53.5
+B, D, C, D
+left
+A, D, C, D
+-54.0
+B, D, D, D
+suck
+B, D, C, D
+-54.0
+B, D, D, D
+suck
+B, D, C, D
+-54.0
+B, D, C, D
+left
+A, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, D, D
+suck
+B, D, C, D
+-54.5
+B, D, C, D
+no-op
+B, D, C, D
+-54.5
+B, D, C, D
+right
+C, D, C, D
+-55.0
+B, D, D, D
+suck
+B, D, C, D
+-55.0
+B, D, C, D
+no-op
+B, D, C, D
+-55.0
+B, D, D, D
+suck
+B, D, C, D
+-55.0
+B, D, D, D
+suck
+B, D, C, D
+-55.0
+B, D, D, D
+suck
+B, D, C, D
+-55.0
+B, D, D, D
+suck
+B, D, C, D
+-55.0
+B, D, C, D
+no-op
+B, D, C, D
+-55.0
+B, D, D, D
+suck
+B, D, C, D
+-55.0
+B, D, C, D
+no-op
+B, D, C, D
+-55.0
+B, D, D, D
+suck
+B, D, C, D
+-55.0
+B, D, D, D
+suck
+B, D, C, D
+-55.0
+B, D, C, D
+left
+A, D, C, D
+-55.5
+B, D, D, D
+suck
+B, D, C, D
+-55.5
+B, D, C, D
+right
+C, D, C, D
+-56.0
+B, D, D, D
+suck
+B, D, C, D
+-56.0
+B, D, D, D
+suck
+B, D, C, D
+-56.0
+B, D, D, D
+suck
+B, D, C, D
+-56.0
+B, D, D, D
+suck
+B, D, C, D
+-56.0
+B, D, C, D
+right
+C, D, C, D
+-56.5
+B, D, D, D
+suck
+B, D, C, D
+-56.5
+B, D, C, D
+no-op
+B, D, C, D
+-56.5
+B, D, C, D
+right
+C, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, D, D
+suck
+B, D, C, D
+-57.0
+B, D, C, D
+right
+C, D, C, D
+-57.5
+B, D, C, D
+no-op
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, C, D
+no-op
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, C, D
+no-op
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, D, D
+suck
+B, D, C, D
+-57.5
+B, D, C, D
+left
+A, D, C, D
+-58.0
+B, D, D, D
+suck
+B, D, C, D
+-58.0
+B, D, D, D
+suck
+B, D, C, D
+-58.0
+B, D, C, D
+left
+A, D, C, D
+-58.5
+B, D, D, D
+suck
+B, D, C, D
+-58.5
+B, D, D, D
+suck
+B, D, C, D
+-58.5
+B, D, D, D
+suck
+B, D, C, D
+-58.5
+B, D, D, D
+suck
+B, D, C, D
+-58.5
+B, D, D, D
+suck
+B, D, C, D
+-58.5
+B, D, D, D
+suck
+B, D, C, D
+-58.5
+B, D, C, D
+right
+C, D, C, D
+-59.0
+B, D, C, D
+right
+C, D, C, D
+-59.5
+B, D, C, D
+left
+A, D, C, D
+-60.0
+B, D, C, D
+no-op
+B, D, C, D
+-60.0
+B, D, D, D
+suck
+B, D, C, D
+-60.0
+B, D, D, D
+suck
+B, D, C, D
+-60.0
+B, D, D, D
+suck
+B, D, C, D
+-60.0
+B, D, D, D
+suck
+B, D, C, D
+-60.0
+B, D, D, D
+suck
+B, D, C, D
+-60.0
+B, D, D, D
+suck
+B, D, C, D
+-60.0
+B, D, D, D
+suck
+B, D, C, D
+-60.0
+B, D, D, D
+suck
+B, D, C, D
+-60.0
+B, D, C, D
+right
+C, D, C, D
+-60.5
+B, D, D, D
+suck
+B, D, C, D
+-60.5
+B, D, D, D
+suck
+B, D, C, D
+-60.5
+B, D, D, D
+suck
+B, D, C, D
+-60.5
+B, D, C, D
+left
+A, D, C, D
+-61.0
+B, D, D, D
+suck
+B, D, C, D
+-61.0
+B, D, D, D
+suck
+B, D, C, D
+-61.0
+B, D, D, D
+suck
+B, D, C, D
+-61.0
+B, D, D, D
+suck
+B, D, C, D
+-61.0
+B, D, D, D
+suck
+B, D, C, D
+-61.0
+B, D, D, D
+suck
+B, D, C, D
+-61.0
+B, D, D, D
+suck
+B, D, C, D
+-61.0
+B, D, D, D
+suck
+B, D, C, D
+-61.0
+B, D, C, D
+right
+C, D, C, D
+-61.5
+B, D, D, D
+suck
+B, D, C, D
+-61.5
+B, D, D, D
+suck
+B, D, C, D
+-61.5
+B, D, D, D
+suck
+B, D, C, D
+-61.5
+B, D, D, D
+suck
+B, D, C, D
+-61.5
+B, D, D, D
+suck
+B, D, C, D
+-61.5
+B, D, C, D
+no-op
+B, D, C, D
+-61.5
+B, D, D, D
+suck
+B, D, C, D
+-61.5
+B, D, D, D
+suck
+B, D, C, D
+-61.5
